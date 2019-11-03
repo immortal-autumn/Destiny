@@ -1,0 +1,11 @@
+/cs/home/hl74/Documents/Destiny/code/helloworld/bin/Debug/netcoreapp2.2/helloworld.deps.json
+/cs/home/hl74/Documents/Destiny/code/helloworld/bin/Debug/netcoreapp2.2/helloworld.runtimeconfig.json
+/cs/home/hl74/Documents/Destiny/code/helloworld/bin/Debug/netcoreapp2.2/helloworld.runtimeconfig.dev.json
+/cs/home/hl74/Documents/Destiny/code/helloworld/bin/Debug/netcoreapp2.2/helloworld.dll
+/cs/home/hl74/Documents/Destiny/code/helloworld/bin/Debug/netcoreapp2.2/helloworld.pdb
+/cs/home/hl74/Documents/Destiny/code/helloworld/obj/Debug/netcoreapp2.2/helloworld.csprojAssemblyReference.cache
+/cs/home/hl74/Documents/Destiny/code/helloworld/obj/Debug/netcoreapp2.2/helloworld.csproj.CoreCompileInputs.cache
+/cs/home/hl74/Documents/Destiny/code/helloworld/obj/Debug/netcoreapp2.2/helloworld.AssemblyInfoInputs.cache
+/cs/home/hl74/Documents/Destiny/code/helloworld/obj/Debug/netcoreapp2.2/helloworld.AssemblyInfo.cs
+/cs/home/hl74/Documents/Destiny/code/helloworld/obj/Debug/netcoreapp2.2/helloworld.dll
+/cs/home/hl74/Documents/Destiny/code/helloworld/obj/Debug/netcoreapp2.2/helloworld.pdb
